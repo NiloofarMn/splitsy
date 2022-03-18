@@ -1,0 +1,54 @@
+Afghani	؋
+Antilles Guilder	ƒ
+Baht	฿
+Balboa	B/.
+Bolivar Fuerte	Bs
+Cedis	¢
+Colon	₡
+Convertible Marka	KM
+Darussalam Dollar	$
+Dinar	Дин.
+Dollar	$
+Dong	₫
+Euro	€
+Forint	Ft
+Franc	CHF
+Guarani	Gs
+Guilder	ƒ
+Hryvna	₴
+Kip	₭
+Koruna	Kč
+Krona	kr
+Kuna	kn
+Lari	₾
+Lat	Ls
+Lek	Lek
+Lempira	L
+Lev	лв
+Lira	₺
+Litas	Lt
+Manat	₼
+Metical	MT
+Naira	₦
+New Dollar	NT$
+New Leu	lei
+Nuevo Sol	S/.
+Peso	₱
+Pound	£
+Pula	P
+Quetzal	Q
+Rand	R
+Rial	﷼
+Riel	៛
+Ringgit	RM
+Ruble	₽
+Rupee	₹
+Rupiah	Rp
+Shekel	₪
+Shilling	S
+Som	лв
+Tenge	лв
+Tughrik	₮
+Won	₩
+Yen	¥
+Zloty	zł

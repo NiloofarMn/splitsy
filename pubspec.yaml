@@ -1,0 +1,55 @@
+name: calculate_exchange_v2
+description: This is an app for calculating shares for each person.
+
+version: 1.1.0
+
+environment:
+  sdk: ">=2.15.0-142.0.dev <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  shared_preferences: ^2.0.8
+  flutter_gradient_colors: ^2.1.1
+  flutter_spinkit: ^5.1.0
+  provider: ^6.0.1
+  
+  firebase_messaging: ^11.1.0
+  firebase_core: ^1.10.0
+  flutter_local_notifications: ^9.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons: "^0.9.2"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+
+  fonts:
+    - family: lato
+      fonts:
+        - asset: assets\fonts\Lato-Regular.ttf
+        - asset: assets\fonts\Lato-Italic.ttf
+          style: italic
+
+    - family: aller
+      fonts:
+        - asset: assets\fonts\Aller_Std_Rg.ttf
+        - asset: assets\fonts\Aller_Std_BdIt.ttf
+          weight: 900
+        
+
